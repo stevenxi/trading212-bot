@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ark-tracker.app", "ark-tracker.app\ark-tracker.app.csproj", "{DFFF3003-9332-4749-8CAB-C28406FE8E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFF3003-9332-4749-8CAB-C28406FE8E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFF3003-9332-4749-8CAB-C28406FE8E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFF3003-9332-4749-8CAB-C28406FE8E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFF3003-9332-4749-8CAB-C28406FE8E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9B27FF-B7CB-4C14-BCF1-2C489391A517}
+	EndGlobalSection
+EndGlobal
